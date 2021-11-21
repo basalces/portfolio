@@ -36,4 +36,4 @@ Uma lista dos sites mais recentes construídos pela Basalces Digital:
  - [Skateasy ~ O maior Guia de Skates no Brasil com dicas e truques]
 (https://skateasy.com/)
 
- -
+ - [Globo Painting We make your dreams come true with colors!] https://globopainting.com/)
