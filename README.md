@@ -3,6 +3,10 @@ Uma lista dos sites mais recentes construídos pela Basalces Digital:
 
 ---
 
+ - [Globo Painting We make your dreams come true with colors!] https://globopainting.com/)
+ 
+ - [Conquistando amor – Descubra os segredos do amor] (https://conquistandoamor.com.br/)
+
  - [Agência de Marketing Basalces Digital | Inovação e Qualidade]
 (https://basalces.digital/)
 
@@ -36,4 +40,3 @@ Uma lista dos sites mais recentes construídos pela Basalces Digital:
  - [Skateasy ~ O maior Guia de Skates no Brasil com dicas e truques]
 (https://skateasy.com/)
 
- - [Globo Painting We make your dreams come true with colors!] https://globopainting.com/)
