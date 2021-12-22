@@ -3,7 +3,7 @@ Uma lista dos sites mais recentes construídos pela Basalces Digital:
 
 ---
 
- - [Globo Painting We make your dreams come true with colors!] https://globopainting.com/)
+ - [Globo Painting We make your dreams come true with colors!] (https://globopainting.com/)
  
  - [Conquistando amor – Descubra os segredos do amor] (https://conquistandoamor.com.br/)
 
