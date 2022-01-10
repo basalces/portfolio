@@ -3,6 +3,8 @@ Uma lista dos sites mais recentes construídos pela Basalces Digital:
 
 ---
 
+ - [Certificado Digital Desconto] (https://certificadodigitaldesconto.com.br/)
+
  - [Globo Painting We make your dreams come true with colors!] (https://globopainting.com/)
  
  - [Conquistando amor – Descubra os segredos do amor] (https://conquistandoamor.com.br/)
