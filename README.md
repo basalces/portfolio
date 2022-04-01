@@ -2,7 +2,7 @@
 Uma lista dos sites mais recentes construídos pela Basalces Digital:
 
 ---
-
+ - [Corporativo Para Pretos] (http://corporativoparapretos.com.br/)
  - [Certificado Digital Desconto] (https://certificadodigitaldesconto.com.br/)
 
  - [Globo Painting We make your dreams come true with colors!] (https://globopainting.com/)
